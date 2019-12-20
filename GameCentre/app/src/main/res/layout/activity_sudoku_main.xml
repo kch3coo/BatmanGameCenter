@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fall2018.csc2017.GameCentre.Sudoku.SudokuGestureDetectGridView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sudoku_grid"
+    android:layout_width="match_parent"
+    android:layout_height="384dp"
+    tools:context="fall2018.csc2017.GameCentre.Sudoku.SudokuGameActivity" />
